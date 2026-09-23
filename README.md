@@ -49,8 +49,8 @@ This project presents an end-to-end data analytics and predictive machine learni
 Clone the repository:
 
 ```Bash
-git clone <your-public-github-repo-link>
-cd <your-repo-folder>
+git clone https://github.com/naveencoding75/Healthcare-Data-Analytics-Prediction.git
+cd Healthcare-Data-Analytics-Prediction
 ```
 
 Install required dependencies:
